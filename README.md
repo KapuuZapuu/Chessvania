@@ -1,2 +1,4 @@
 # Chessvania (NOT FINISHED-- Menus are incomplete, logic is unfinished and wave functionality/stockfish imports are still a WIP)
-A unique twist on chess built entirely into the console using only Python. A Balatro-styled game where users are presented with foes more and more challenging (in terms of both ELO rating and piece strength), and must use unique piece upgrades and board powerups in order to survive.
+(Game details to come)
+
+Eventually, if (and when) I do get in touch with people who are more involved in the game development space, I would like to create a more fleshed out (and visually appealing) version of chessvania. Chess as a game has not evolved at all for a very long time, and the interest in the game has been at an all time high in recent years. People in the chess content creation space would do wonders for a new take on the game-- and would be great for publicity.
